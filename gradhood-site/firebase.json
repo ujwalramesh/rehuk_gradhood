@@ -1,0 +1,11 @@
+{
+"hosting": {
+  "firebase": "gradhood",
+  "public": "app",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
+}

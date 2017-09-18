@@ -2688,6 +2688,10 @@
 		text-align: center;
 	}
 
+	#header img {
+			max-height:88px;
+		}
+
 		#header .logo {
 			color: #f6755e;
 			font-family: "Pacifico", cursive;
@@ -2761,8 +2765,7 @@
 		}
 
 		#header {
-			height: 44px;
-			line-height: 44px;
+			
 		}
 
 			#header .logo {
@@ -2788,6 +2791,11 @@
 
 		#header {
 			min-width: 320px;
+			font-size: .75em;
+		}
+
+		#header img {
+			max-height:66px;
 		}
 
 	}
